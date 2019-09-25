@@ -5,11 +5,11 @@ require "r18_client/version"
 Gem::Specification.new do |spec|
   spec.name          = "r18_client"
   spec.version       = R18Client::VERSION
-  spec.authors       = ["thighstump"]
-  spec.email         = ["thighstump@protonmail.ch"]
+  spec.authors       = ["imaginary-upside"]
+  spec.email         = ["imaginary-upside@protonmail.ch"]
 
   spec.summary       = "r18.com client"
-  spec.license       = "MIT"
+  spec.license       = "AGPL-3.0-only"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
